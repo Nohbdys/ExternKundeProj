@@ -1,0 +1,2 @@
+C:\Users\Oliver\Desktop\Hjememarbejde\HjemmeProjekt\Temp\UnityVS_obj\Debug\HjemmeProjekt.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\Hjememarbejde\HjemmeProjekt\Temp\UnityVS_obj\Debug\HjemmeProjekt.csproj.CoreCompileInputs.cache
